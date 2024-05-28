@@ -27,5 +27,4 @@
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shyantan)
-- [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
