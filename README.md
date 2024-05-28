@@ -22,7 +22,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanthan001&layout=compact&theme=radical)
 
 ## Projects
-- [Predictive Modeling for Type 2 Diabetes](https://github.com/shanthan001/predictive-modeling-diabetes): Developed a predictive model using machine learning techniques, achieving up to 80% accuracy.
+- [Predictive Modeling for Type 2 Diabetes]([https://github.com/shanthan001/predictive-modeling-diabetes](https://github.com/shanthan001/T2-Diabetes-Mellitus-Detection)): Developed a predictive model using machine learning techniques, achieving up to 80% accuracy.
 - [Invoice Automation & ERP Data Reconciliation](https://github.com/shanthan001/invoice-automation-erp): Consolidated and processed diverse invoice data from multiple sources, ensuring accuracy and standardization.
 
 ## Connect with Me
