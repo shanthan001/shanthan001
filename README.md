@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shanthan001&color=blue)
 
 ## About Me
-- 🎓 I'm currently pursuing a Master's degree in Digital Innovation - Data Science at Dalhousie University.
+- 🎓 I finished my Master's degree in Digital Innovation - Data Science at Dalhousie University.
 - 🌱 I’m currently learning more about machine learning, AI, and data analytics.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced data science projects.
