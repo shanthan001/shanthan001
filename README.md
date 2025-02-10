@@ -27,4 +27,4 @@
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shyantan)
-- [Portfolio](https://your-portfolio.com)
+- [Portfolio](https://shanthan001.github.io/syanthanvullingala)
